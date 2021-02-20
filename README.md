@@ -18,6 +18,11 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Black Women In Tech | Hosted By Erica Cooper](https://www.youtube.com/watch?v=kDQXcIe4CAQ)
+- [LabEveryday -  The Beat Tape](https://www.youtube.com/watch?v=6u6fuLwV-No)
+- [Hacking 101 | Interview with Hacker Charles Shirer](https://www.youtube.com/watch?v=9vS0vSDQSq4)
+- [From being a banker to a 6 figure career in the cloud | Interview with Broadus Palmer](https://www.youtube.com/watch?v=Tr3Tx1PXNBg)
+- [9 Tips For Career Success in 2021](https://www.youtube.com/watch?v=tLwN9DTlZw4)
 <!-- YOUTUBE:END -->
 
 ---
