@@ -18,6 +18,19 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ---
 
+### Published Blog Posts
+
+- [How To Become a Network Engineer](https://www.labeveryday.com/post/how-to-become-a-network-engineer-in-2020)
+- [Do Network Engineers Need to Know Programming](https://www.labeveryday.com/post/do-network-engineers-need-to-know-programming)
+- [‪Six Skills You Need to Know to Become a Network Automation Engineer](https://www.labeveryday.com/post/six-skills-you-need-to-know-to-become-a-network-automation-engineer)
+- [How I Got Started with Network Automation](https://blogs.cisco.com/developer/start-in-network-automation)
+- [These 5 Learning Labs will Kick Start Your Network Automation Skills](https://blogs.cisco.com/developer/kick-start-network-automation-skills)
+- [Cisco Live 2021 is for Engineers of the Future](https://blogs.cisco.com/developer/360-cl2021futureengineers-01)
+- [How to Get a CompTIA Certification: Go at Your Own Pace, Focus and #LabEveryday](https://www.comptia.org/blog/how-to-get-a-comptia-certification)
+- [Should I Get an IT Certification? 10 Questions to Ask Yourself](https://www.comptia.org/blog/should-i-get-an-it-certification-10-questions-to-ask-yourself)
+
+---
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Black Women In Tech | Hosted By Erica Cooper](https://www.youtube.com/watch?v=kDQXcIe4CAQ)
