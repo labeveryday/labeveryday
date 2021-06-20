@@ -1,7 +1,8 @@
 # Hola 👋 🤖
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/labeveryday?label=Follow)](https://twitter.com/labeveryday)
-[![Linkedin: duanlightfoot](https://img.shields.io/badge/-duan%20lightfoot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duanlightfoot/)](https://www.linkedin.com/in/duanlightfoot/)
+[![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/labeveryday)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/labeveryday)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/duanlightfoot/)
 
 ![Labeveryday](https://github.com/labeveryday/Notes/blob/main/images/thumbnail.jpeg)
 
