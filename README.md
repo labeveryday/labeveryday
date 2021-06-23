@@ -27,6 +27,7 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 - [How I Got Started with Network Automation](https://blogs.cisco.com/developer/start-in-network-automation)
 - [These 5 Learning Labs will Kick Start Your Network Automation Skills](https://blogs.cisco.com/developer/kick-start-network-automation-skills)
 - [Cisco Live 2021 is for Engineers of the Future](https://blogs.cisco.com/developer/360-cl2021futureengineers-01)
+- [How to Simplify Container Automation: Intro to Cloud Native Buildpacks](https://blogs.cisco.com/developer/cloudnativebuildpacks01)
 - [How to Get a CompTIA Certification: Go at Your Own Pace, Focus and #LabEveryday](https://www.comptia.org/blog/how-to-get-a-comptia-certification)
 - [Should I Get an IT Certification? 10 Questions to Ask Yourself](https://www.comptia.org/blog/should-i-get-an-it-certification-10-questions-to-ask-yourself)
 
