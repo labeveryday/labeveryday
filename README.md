@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Interview with Master Inventor Angie Jones who has over 25 patents](https://www.youtube.com/watch?v=IHUor59BlT0)
 - [New setup test - 15 minutes AMA](https://www.youtube.com/watch?v=qA-pJZbX170)
 - [My Huge Cisco Live 2021 Announcement](https://www.youtube.com/watch?v=OhqS62TjFic)
 - [Cyber Security Tech Round Table Talk](https://www.youtube.com/watch?v=KUM1DpENurs)
-- [How to Make Money While You Sleep With Affiliate Marketing | Interview with Priest Willis](https://www.youtube.com/watch?v=rv_AFZRBCtA)
 <!-- YOUTUBE:END -->
 
 ---
