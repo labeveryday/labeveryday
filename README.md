@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Everything you need to know about the cloud Interview with Reggie Davis](https://www.youtube.com/watch?v=xCQ-upAZsfU)
 - [Everything you need to know about cybersecurity Interview with Gabriel Agboruche](https://www.youtube.com/watch?v=xhckK0v3vcU)
 - [What to do after passing the DevNet Associates CCNA Exam?](https://www.youtube.com/watch?v=CxFxnBFSSBE)
 - [Interview with Master Inventor Angie Jones who has over 25 patents](https://www.youtube.com/watch?v=IHUor59BlT0)
-- [New setup test - 15 minutes AMA](https://www.youtube.com/watch?v=qA-pJZbX170)
 <!-- YOUTUBE:END -->
 
 ---
