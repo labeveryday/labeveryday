@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [From Auto Mechanic to I.T. Manager | Interview with Maurice Jones](https://www.youtube.com/watch?v=rxqmEZpwhIE)
 - [The Book Every Network Engineer Should Read](https://www.youtube.com/watch?v=VP_ZYmgUCUE)
 - [Everything you need to know about the cloud Interview with Reggie Davis](https://www.youtube.com/watch?v=xCQ-upAZsfU)
 - [Everything you need to know about cybersecurity Interview with Gabriel Agboruche](https://www.youtube.com/watch?v=xhckK0v3vcU)
-- [What to do after passing the DevNet Associates CCNA Exam?](https://www.youtube.com/watch?v=CxFxnBFSSBE)
 <!-- YOUTUBE:END -->
 
 ---
