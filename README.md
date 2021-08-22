@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Are you ready for the Marathon?](https://www.youtube.com/watch?v=Uo22v4hkAc0)
 - [Software Engineering Leader uses STEM to teach kids Digital Brilliance | Interview with Kevin Epps](https://www.youtube.com/watch?v=RKcCg2v8KSU)
 - [From Auto Mechanic to I.T. Manager | Interview with Maurice Jones](https://www.youtube.com/watch?v=rxqmEZpwhIE)
 - [The Book Every Network Engineer Should Read](https://www.youtube.com/watch?v=VP_ZYmgUCUE)
-- [Everything you need to know about the cloud Interview with Reggie Davis](https://www.youtube.com/watch?v=xCQ-upAZsfU)
 <!-- YOUTUBE:END -->
 
 ---
