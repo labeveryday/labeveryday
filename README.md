@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Get Started With VSCode](https://www.youtube.com/watch?v=9bbATuY1MrY)
 - [What is the value of True? | Python Daily Quiz ep1](https://www.youtube.com/watch?v=Vu8_ldKNuCA)
 - [How to get into I.T. and win! | Interview with Symbiont President Johnathan Lightfoot](https://www.youtube.com/watch?v=STv8ofVLyes)
 - [Are you ready for the Marathon?](https://www.youtube.com/watch?v=Uo22v4hkAc0)
-- [Software Engineering Leader uses STEM to teach kids Digital Brilliance | Interview with Kevin Epps](https://www.youtube.com/watch?v=RKcCg2v8KSU)
 <!-- YOUTUBE:END -->
 
 ---
