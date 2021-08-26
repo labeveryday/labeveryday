@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [10 Reasons You Are Not Successful in IT](https://www.youtube.com/watch?v=cjVhfsx_6kc)
 - [Python strings can do what? |  Python Daily Quiz ep4](https://www.youtube.com/watch?v=isIRHoEZZ_U)
 - [Sets-vs-lists | Python Daily Quiz ep3](https://www.youtube.com/watch?v=dF6njrY88ew)
 - [How to create the career of your dreams | Interview with Career Rehab author Kanika Tolver](https://www.youtube.com/watch?v=64RCaiMsI3A)
-- [How to automate networks | Live Coding and Chat with John Capobianco](https://www.youtube.com/watch?v=EHVX6w9ZnUc)
 <!-- YOUTUBE:END -->
 
 ---
