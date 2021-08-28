@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Understanding Division in Python | Python Daily Quiz ep. 6](https://www.youtube.com/watch?v=JUutqeH-jVE)
 - [How Not to Name Variables in Python | Python Daily Quiz ep5](https://www.youtube.com/watch?v=OACeiVi_krw)
 - [10 Reasons You Are Not Successful in IT](https://www.youtube.com/watch?v=cjVhfsx_6kc)
 - [Python strings can do what? |  Python Daily Quiz ep4](https://www.youtube.com/watch?v=isIRHoEZZ_U)
-- [Sets-vs-lists | Python Daily Quiz ep3](https://www.youtube.com/watch?v=dF6njrY88ew)
 <!-- YOUTUBE:END -->
 
 ---
