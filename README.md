@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How @Patrick Kinane  Went From Zero Technical Skills To CCIE In 5 Years](https://www.youtube.com/watch?v=XXnmSfv-rEU)
 - [How to automate networks | Live Coding and Chat with John Capobianco #ConversationAndCoding ep1](https://www.youtube.com/watch?v=EHVX6w9ZnUc)
 - [Understanding Division in Python | Python Daily Quiz ep. 6](https://www.youtube.com/watch?v=JUutqeH-jVE)
 - [How Not to Name Variables in Python | Python Daily Quiz ep5](https://www.youtube.com/watch?v=OACeiVi_krw)
-- [10 Reasons You Are Not Successful in IT](https://www.youtube.com/watch?v=cjVhfsx_6kc)
 <!-- YOUTUBE:END -->
 
 ---
