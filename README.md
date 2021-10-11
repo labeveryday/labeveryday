@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What is DevNet Create 2021? Live Q&A with Cisco DevNet Developer Advocates](https://www.youtube.com/watch?v=OeXlQa5HU5c)
 - [How Gwyneth Pena-Siguenza became a Cloud Engineer with no college degree](https://www.youtube.com/watch?v=IcO-hhfTxJA)
 - [How @I.T. Career Questions went from High School DROP OUT to changing lives in Cyber Security](https://www.youtube.com/watch?v=njvSVhWYI04)
 - [How to become a software app developer | Interview with @bdougie](https://www.youtube.com/watch?v=gj28WB7FeDQ)
-- [How do you use functions in Python](https://www.youtube.com/watch?v=8kvxhJzXvh4)
 <!-- YOUTUBE:END -->
 
 ---
