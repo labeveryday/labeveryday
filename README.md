@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to create the career of your dreams | Interview with Career Rehab author Kanika Tolver](https://www.youtube.com/watch?v=64RCaiMsI3A)
 - [How do I get started with Network Automation? | Interview with Principal Engineer Eric Chou](https://www.youtube.com/watch?v=xFhFM1DLjJQ)
 - [What is DevNet Create 2021? Live Q&A with Cisco DevNet Developer Advocates](https://www.youtube.com/watch?v=OeXlQa5HU5c)
 - [How Gwyneth Pena-Siguenza became a Cloud Engineer with no college degree](https://www.youtube.com/watch?v=IcO-hhfTxJA)
-- [How @I.T. Career Questions went from High School DROP OUT to changing lives in Cyber Security](https://www.youtube.com/watch?v=njvSVhWYI04)
 <!-- YOUTUBE:END -->
 
 ---
