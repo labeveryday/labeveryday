@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I.T. Helpdesk - All Your Questions Answered](https://www.youtube.com/watch?v=KzgIiBUFTWI)
 - [Why Linux is important to learn | Interview with Women In Linux Founder Tameika Reed](https://www.youtube.com/watch?v=GPECdeQzQLM)
 - [Intro to Python part 1](https://www.youtube.com/watch?v=U6CeuuVEH4U)
 - [How to create the career of your dreams | Interview with Career Rehab author Kanika Tolver](https://www.youtube.com/watch?v=64RCaiMsI3A)
-- [How do I get started with Network Automation? | Interview with Principal Engineer Eric Chou](https://www.youtube.com/watch?v=xFhFM1DLjJQ)
 <!-- YOUTUBE:END -->
 
 ---
