@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to be successful in cyber security | Interview with Otha Mabry](https://www.youtube.com/watch?v=YAEZtmmg31g)
 - [Let&#39;s talk Cyber Security with @TechTual Chatter](https://www.youtube.com/watch?v=KGhU2PEPmD8)
 - [I.T. Helpdesk - All Your Questions Answered](https://www.youtube.com/watch?v=KzgIiBUFTWI)
 - [Why Linux is important to learn | Interview with Women In Linux Founder Tameika Reed](https://www.youtube.com/watch?v=GPECdeQzQLM)
-- [Intro to Python part 1](https://www.youtube.com/watch?v=U6CeuuVEH4U)
 <!-- YOUTUBE:END -->
 
 ---
