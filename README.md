@@ -4,7 +4,7 @@
 [![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/labeveryday)
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/duanlightfoot/)
 
-![Labeveryday](https://github.com/labeveryday/images/thumbnail.jpeg)
+![Labeveryday](https://github.com/labeveryday/images/blob/main/thumbnail.jpeg)
 
 Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.cisco.com/author/duanlightfoot) at Cisco DevNet. Lately I've grown to love everything code. Coming from a network engineering background I've faced many challenges on my software development journey. GitHub is a place where I decided to share my network automation experiences with the world!
 
