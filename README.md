@@ -35,10 +35,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How I passed the AWS Certified Cloud Practitioner Exam in less than a week](https://www.youtube.com/watch?v=DGw51Jv9Iao)
 - [Why you should take more risk in your tech career | Interview with Sly Gittens](https://www.youtube.com/watch?v=LKt_GCS9y5I)
 - [How to be successful in cyber security | Interview with Otha Mabry](https://www.youtube.com/watch?v=YAEZtmmg31g)
 - [I.T. Helpdesk - All Your Questions Answered](https://www.youtube.com/watch?v=KzgIiBUFTWI)
-- [Why Linux is important to learn | Interview with Women In Linux Founder Tameika Reed](https://www.youtube.com/watch?v=GPECdeQzQLM)
 <!-- YOUTUBE:END -->
 
 ---
