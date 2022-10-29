@@ -43,10 +43,10 @@ Welcome! My name is Du'An Lightfoot. I'm a [Sr. Developer Advocate](https://blog
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/labeveryday?tab=repositories">
     <img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=labeveryday&layout=compact"
     />
   </a>
