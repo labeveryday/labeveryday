@@ -6,14 +6,14 @@
 
 ![Labeveryday](https://github.com/labeveryday/images/blob/main/thumbnail.jpeg)
 
-Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.cisco.com/author/duanlightfoot) at Cisco DevNet. Lately I've grown to love everything code. Coming from a network engineering background I've faced many challenges on my software development journey. GitHub is a place where I decided to share my network automation experiences with the world!
+Welcome! My name is Du'An Lightfoot. I'm a [Sr. Developer Advocate](https://blogs.cisco.com/author/duanlightfoot) at AWS. Lately I've grown to love everything about Cloud Networking. Coming from a network engineering background I've faced many challenges on my software development journey. GitHub is a place where I decided to share my cloud and network automation experiences with the world!
 
 ## Here are some things about me:
 
-- 🔭 I’m currently working on learning the latest in Network Automation
-- 🌱 I’m currently learning about Developing Applications using Cisco Core Platforms and APIs v1.0
+- 🔭 I’m currently working on learning Cloud Networking
+- 🌱 I’m currently learning about Developing Applications using AWS
 - 🤔 I’m looking for help with understanding the complexities of computer science
-- 💬 Ask me about anything Cisco DevNet and Network Automation
+- 💬 Ask me about anything AWS networking
 - 📫 How to reach me: [Twitter](https://twitter.com/labeveryday)
 - ⚡ Fun fact: My favorite coding language is Python 🐍, I love nice watches ⌚️, and good food!
 
@@ -42,5 +42,21 @@ Welcome! My name is Du'An Lightfoot. I'm a [Developer Advocate](https://blogs.ci
 <!-- YOUTUBE:END -->
 
 ---
+
+<p align="center">
+  <a href="https://github.com/labeveryday?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=labeveryday&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/labeveryday?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=labeveryday&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
 <br />
