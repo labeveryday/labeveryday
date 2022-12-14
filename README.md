@@ -42,21 +42,3 @@ Welcome! My name is Du'An Lightfoot. I'm a [Sr. Developer Advocate](https://blog
 <!-- YOUTUBE:END -->
 
 ---
-
-<p align="center">
-  <a href="https://github.com/labeveryday?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=labeveryday&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/labeveryday?tab=repositories">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=labeveryday&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-<br />
