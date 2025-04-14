@@ -16,7 +16,7 @@
 
 I'm a [Sr. Developer Advocate at AWS](https://blogs.cisco.com/author/duanlightfoot), focused on making cloud networking and infrastructure automation more accessible for devs and engineers alike.  
 
-I started in traditional networking and pivoted into cloud + code — now I build full-stack apps, explore AI tools, and share everything I learn to help the next wave of builders grow.
+I started in traditional networking and pivoted into cloud + code. Now, I build full-stack apps, explore AI tools, and share everything I learn to help the next wave of builders grow.
 
 ---
 
