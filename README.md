@@ -24,7 +24,7 @@ I started in traditional networking and pivoted into cloud + code. Now, I build 
 
 - 🔭 Building full-stack apps with **React + FastAPI**
 - ☁️ AWS everything: Lambda, CDK, Amplify, API Gateway
-- 🤖 Using **AI tools** (like Copilot, Claude, Amazon Q) to code smarter
+- 🤖 Using and building **AI tools** (like Amazon Bedrock, Claude, Amazon Q) to code smarter and get things done
 - 🧠 Building in public with my [100 Days of Code Challenge](https://github.com/labeveryday/100-days-of-code)
 
 ---
