@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a Sr. Developer Advocate at AWS, focused on making cloud networking and infrastructure automation more accessible for devs and engineers alike.  
+I'm a Sr. Developer Advocate at Akamai, focused on making cloud networking and infrastructure automation more accessible for devs and engineers alike.  
 
 I started in traditional networking and pivoted into cloud + code. Now, I build full-stack apps, explore AI tools, and share everything I learn to help the next wave of builders grow.
 
@@ -23,7 +23,7 @@ I started in traditional networking and pivoted into cloud + code. Now, I build 
 ## 🔍 Currently Exploring
 
 - 🔭 Building full-stack apps with **React + FastAPI**
-- ☁️ AWS everything: Lambda, CDK, Amplify, API Gateway
+- ☁️ Cloud everything: Compute, Storage, Database, Networking
 - 🤖 Using and building **AI tools** (like Amazon Bedrock, Claude, Amazon Q) to code smarter and get things done
 - 🧠 Building AI agents with the goal of building agents that are fulluy autonomous
 
