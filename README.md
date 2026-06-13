@@ -38,17 +38,6 @@ I started in traditional networking and pivoted into cloud + code. Now, I build 
 
 ---
 
-## ✍️ Latest Writing
-
-> 📬 Want this in your inbox? [Subscribe to my newsletter](https://duanlightfoot.substack.com)
-
-- 🧠 [Do Network Engineers Need to Know Programming?](https://www.labeveryday.com/post/do-network-engineers-need-to-know-programming)
-- 🚀 [How I Got Started with Network Automation](https://blogs.cisco.com/developer/start-in-network-automation)
-- 🛠️ [Intro to Cloud Native Buildpacks](https://blogs.cisco.com/developer/cloudnativebuildpacks01)
-- 🧰 [Six Skills to Become a Network Automation Engineer](https://www.labeveryday.com/post/six-skills-you-need-to-know-to-become-a-network-automation-engineer)
-
----
-
 ## 🎥 Latest YouTube Drops
 
 > 🔔 [Subscribe on YouTube →](https://www.youtube.com/labeveryday)
